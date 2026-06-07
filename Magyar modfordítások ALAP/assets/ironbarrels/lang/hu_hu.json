@@ -1,0 +1,23 @@
+{
+  "item.ironbarrels.iron_barrel": "Vashordó",
+  "block.ironbarrels.gold_barrel": "Aranyhordó",
+  "subtitles.barrelopen": "Hordó kinyitva",
+  "itemGroup.tabiron_barrels_creative_tab": "Iron Barrels",
+  "item_group.ironbarrels.iron_barrels_creative_tab": "Iron Barrels (Vashordók)",
+  "item.ironbarrels.iron_to_gold_barrel_upgrade": "Vashordó aranyhordóvá fejlesztése",
+  "item.ironbarrels.diamond_barrel": "Gyémánthordó",
+  "item.ironbarrels.wood_to_iron_barrel_upgrade": "Fahordó vashordóvá fejlesztése",
+  "advancements.netherite_barrel_advancement.descr": "Barkácsolj egy alvilágérc hordót",
+  "item.ironbarrels.netherite_barrel": "Alvilágérchordó",
+  "block.ironbarrels.iron_barrel": "Vashordó",
+  "item.ironbarrels.diamond_to_obsidian_barrel_upgrade": "Gyémánthordó obszidiánhordóvá fejlesztése",
+  "item.ironbarrels.gold_to_diamond_barrel_upgrade": "Aranyhordó gyémánthordóvá fejlesztése",
+  "block.ironbarrels.netherite_barrel": "Alvilágérc hordó",
+  "item.ironbarrels.obsidian_to_netherite_barrel_upgrade": "Obszidiánhordó alvilágérchordóvá fejlesztése",
+  "advancements.netherite_barrel_advancement.title": "Mostantól mindent tárolhatsz!",
+  "block.ironbarrels.diamond_barrel": "Gyémánthordó",
+  "subtitles.barrelclose": "Hordó zárva",
+  "item.ironbarrels.gold_barrel": "Aranyhordó",
+  "block.ironbarrels.obsidian_barrel": "Obszidiánhordó",
+  "item.ironbarrels.obsidian_barrel": "Obszidiánhordó"
+}

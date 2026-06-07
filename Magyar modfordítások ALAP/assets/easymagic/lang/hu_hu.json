@@ -1,0 +1,11 @@
+{
+  "container.enchant.experience.many": "%s tapasztalati pont",
+  "container.enchant.experience.one": "1 tapasztalati pont",
+  "container.enchant.reroll": "Varázslatok újratöltése",
+  "container.enchant.reroll.many": "%s ametisztszilánk",
+  "container.enchant.reroll.one": "1 ametisztszilánk",
+  "container.invalidBlock": "Nem használható. Törd ki és rakd le újra, hogy használhasd.",
+  "tag.block.easymagic.unaltered_enchanting_tables": "Változatlan varázslóasztalok",
+  "tag.item.easymagic.enchanting_catalysts": "Varázslási katalizátor",
+  "tag.item.easymagic.reroll_catalysts": "Katalizátor újratöltése"
+}

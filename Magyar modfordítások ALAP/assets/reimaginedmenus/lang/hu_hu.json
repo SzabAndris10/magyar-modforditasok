@@ -1,0 +1,15 @@
+{
+  "world.create.settings": "Beállítások",
+  "world.create.tab.general": "Általános",
+  "world.create.tab.world": "Világ",
+  "world.create.tab.advanced": "Haladó",
+  "world.create.icon.filetoolarge": "%s KB túl nagy!! Válassz egy 50 KB alatti fájlt.",
+  "world.create.icon.title": "Világikonok",
+  "world.create.icon.folderinfo": "(Rakd ide az ikonfájlokat)",
+  "world.create.icon.dropinfo": "Húzd át a fájlokat ebbe az ablakba az ikonok hozzáadásához.",
+  "world.create.icon.openfolder": "Ikonmappa megnyitása",
+  "world.create.icon.dropConfirm": "Szeretnéd hozzáadni a következő ikonokat a Minecrafthoz?",
+
+  "modmenu.summaryTranslation.reimaginedmenus": "Teljesen újratervezni a világlétrehozási menüt.",
+  "modmenu.descriptionTranslation.reimaginedmenus": "A Reimagined Menus újragondolja a világ néhány menüjének kialakítását Bedrock stílusú menükkel, miközben megőrzi a Java megjelenését és hangulatát!"
+}

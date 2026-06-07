@@ -1,0 +1,15 @@
+{
+  "block.iron_ender_chests.iron_ender_chest": "Vas végzetláda",
+  "block.iron_ender_chests.diamond_ender_chest": "Gyémánt végzetláda",
+  "block.iron_ender_chests.netherite_ender_chest": "Alvilágérc végzetláda",
+  "block.iron_ender_chests.copper_ender_chest": "Réz végzetláda",
+  "block.iron_ender_chests.gold_ender_chest": "Arany végzetláda",
+  "block.iron_ender_chests.emerald_ender_chest": "Smaragd végzetláda",
+  "block.iron_ender_chests.redstone_ender_chest": "Vöröskő végzetláda",
+  "block.iron_ender_chests.lapis_ender_chest": "Lazurit végzetláda",
+  "tooltip.iron_ender_chests.four_rows": "Négy sor",
+  "tooltip.iron_ender_chests.five_rows": "Öt sor",
+  "tooltip.iron_ender_chests.six_rows": "Hat sor",
+  "tooltip.iron_ender_chests.fire_resistant": "Tűzálló",
+  "itemGroup.iron_ender_chests.iron_ender_chests": "Iron Ender Chests"
+}
